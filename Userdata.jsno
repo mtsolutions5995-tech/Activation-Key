@@ -1,25 +1,19 @@
 [
-{
-"device_id": "0b385ae6975b2a58",
-"key": "123456",
-"expirydate": "31-01-2026",
-"Allowoffline": true
-},
-{
-"device_id": "device123",
-"key": "5678876446",
-"expirydate": "31-01-2026",
-"Allowoffline": true
-}
+    {
+        "device_id": "0b385ae6975b2a58",
+        "username": "Gopi",
+        "password": "123456",
+        "expirydate": "31-01-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "username": "user2",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
 ]
-
-
-
-
-
-
-
-
 
 
 
