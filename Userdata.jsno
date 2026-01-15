@@ -4,13 +4,13 @@
     "username": "user001",
     "password": "5995",
     "expirydate": "12-01-2026",
-    "Allowoffline": true
+    "Allowoffline": false
   },
   {
     "device_id": "273412cd7bae74cb",
     "username": "user002",
     "password": "123456",
-    "expirydate": "31-12-2026",
+    "expirydate": "16-01-2026",
     "Allowoffline": false
   },
   {
