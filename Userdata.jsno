@@ -33,5 +33,5 @@
         "password": "12345",
         "expirydate": "31-01-2026",
         "Allowoffline": flase
-    },
+    }
 ]
