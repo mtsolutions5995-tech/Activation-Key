@@ -13,9 +13,20 @@
         "expirydate": "31-01-2026",
         "Allowoffline": flase
     },
-
-  { "device_id": "0e6fdd8c10f01db2", "username": "1001", "password": "82930412", "expirydate": "16-04-2026", "Allowoffline": false },
-  { "device_id": "59f882810c868087", "username": "1002", "password": "19283746", "expirydate": "16-02-2026", "Allowoffline": false },
+    { 
+        "device_id": "0b385ae6975b2a58",
+        "username": "1001",
+        "password": "82930412",
+        "expirydate": "16-04-2026",
+        "Allowoffline": false
+    },
+    { 
+        "device_id": "59f882810c868087",
+        "username": "1002",
+        "password": "19283746",
+        "expirydate": "16-02-2026",
+        "Allowoffline": false
+     },
   { "device_id": "dv_1003_cz", "username": "1003", "password": "55647382", "expirydate": "31-01-2026", "Allowoffline": false },
   { "device_id": "dv_1004_dw", "username": "1004", "password": "90128374", "expirydate": "31-01-2026", "Allowoffline": false },
   { "device_id": "dv_1005_ev", "username": "1005", "password": "34455667", "expirydate": "31-01-2026", "Allowoffline": false },
