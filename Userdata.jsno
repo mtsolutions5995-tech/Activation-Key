@@ -4,27 +4,27 @@
     "username": "user001",
     "password": "5995",
     "expirydate": "14-01-2026",
-    "Allowoffline": true
+    "Allowoffline": false
   },
   {
     "device_id": "273412cd7bae74cb",
     "username": "user002",
     "password": "123456",
     "expirydate": "31-12-2026",
-    "Allowoffline": true
+    "Allowoffline": false
   },
   {
     "device_id": "0e6fdd8c10f01db2",
     "username": "user003",
     "password": "11293847",
     "expirydate": "16-04-2026",
-    "Allowoffline": true
+    "Allowoffline": false
   },
   {
     "device_id": "59f882810c868087",
     "username": "user004",
     "password": "67392011",
     "expirydate": "16-02-2026",
-    "Allowoffline": true
+    "Allowoffline": false
   }
 ]
