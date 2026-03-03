@@ -94,14 +94,14 @@
     "device_id": "f6e2d3789cf3cba0",
     "username": "user014",
     "password": "86446743",
-    "expirydate": "18-03-2026",
+    "expirydate": "05-04-2026",
     "Allowoffline": false
   },
   {
     "device_id": "add",
     "username": "user015",
     "password": "64357754",
-    "expirydate": "18-02-2026",
+    "expirydate": "03-02-2026",
     "Allowoffline": false
   }
 ]
